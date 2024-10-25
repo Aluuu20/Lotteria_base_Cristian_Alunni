@@ -19,3 +19,4 @@ Applicazione Java per simulare l'estrazione di numeri random da inserire in una 
 ## Osservazioni
 Il progetto è stato scritto per scopi didattici e ha solo lo scopo di far comprendere le proprietà della classe Thread. 
 Ad esso è associato il corrispondente <a href="https://drive.google.com/file/d/1DT6W73QeMnYEYUodcQ1hVpVY1DD0xCNv/view?usp=drive_link">diagramma delle classi</a>.
+# Lotteria_base_Cristian_Alunni
